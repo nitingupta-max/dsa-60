@@ -5,3 +5,12 @@
 * Revised Array and Practiced Some Questions
 # Day3
 * Studied Method and Method Overloading and Practiced Some Questions
+# Day4
+* Solved Problems Based on 1D, 2D, & Methods
+* link https://www.javatpoint.com/array-in-java
+# Day5
+* Linear Search, Binary Search, Jump Search and its Implementations
+# Day6
+* Studied Recursion & Strings and Solved Some Problems.
+# Day7
+* Started Linked List, Implement Linked List and Insertion Operation
