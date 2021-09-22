@@ -13,4 +13,10 @@
 # Day6
 * Studied Recursion & Strings and Solved Some Problems.
 # Day7
-* Started Linked List, Implement Linked List and Insertion Operation
+* Started Linked List, Implement Linked List 
+# Day8
+* Linked List Operations
+> Insertion at Starting, Ending and at any Index
+> Deletion 
+> Searching
+> Traversal 
