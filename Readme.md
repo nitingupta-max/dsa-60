@@ -22,6 +22,6 @@
 > Traversal
 # Day9
 * Implement Doubly Linked List and its Operations
-$ insertion at starting, ending, at any index
-$ deletion at starting, ending, at any index
-$ Forward & Backward Traversal 
+-> insertion at starting, ending, at any index
+-> deletion at starting, ending, at any index
+-> Forward & Backward Traversal 
