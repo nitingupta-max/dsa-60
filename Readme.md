@@ -15,13 +15,16 @@
 # Day7
 * Started Linked List, Implement Linked List 
 # Day8
-* Linked List Operations
-> Insertion at Starting, Ending and at any Index
-> Deletion 
-> Searching
-> Traversal
+### Linked List Operations
+* Insertion at Starting, Ending and at any Index
+* Deletion,  
+* Searching, 
+* Traversal 
 # Day9
-* Implement Doubly Linked List and its Operations
--> insertion at starting, ending, at any index
--> deletion at starting, ending, at any index
--> Forward & Backward Traversal 
+### Implement Doubly Linked List and its Operations
+* insertion at starting, ending, at any index. 
+* deletion at starting, ending, at any index. 
+* Forward & Backward Traversal. 
+# Day10
+* Implement Circular Linked List and its Operations insertion and deletion
+* Studied Stack and implement it by using : `Arrays, Java Collection (Stack).
