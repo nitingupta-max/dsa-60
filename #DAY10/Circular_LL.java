@@ -88,8 +88,8 @@ public class Circular_LL {
         CLL.insertFirst(6, 9);
         CLL.insertFirst(7, 5);
 
-        int length = CLL.length();
-        System.out.println(length);
+//         int length = CLL.length();
+//         System.out.println(length);
 
         CLL.diplayLL();
         System.out.println();
