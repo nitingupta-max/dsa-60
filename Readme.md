@@ -30,3 +30,6 @@
 * Studied Stack and implement it by using : `Arrays, Java Collection (Stack).
 # Day11
 * Implement Stack using Linked List and Dynamic Array
+# Day12
+* Studied Bubble Sort & Selection Sort Algorithm
+* & implement both Bubble and Selection Sort
