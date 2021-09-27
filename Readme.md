@@ -33,3 +33,6 @@
 # Day12
 * Studied Bubble Sort & Selection Sort Algorithm
 * & implement both Bubble and Selection Sort
+# Day13
+* Studied Merge Sort and Quick Sort.
+* Implementation of Merge Sort and Quick Sort.
