@@ -36,3 +36,6 @@
 # Day13
 * Studied Merge Sort and Quick Sort.
 * Implementation of Merge Sort and Quick Sort.
+# Day14
+* Studied Heap, Heapify & Heapsort
+* Implement Heap Sort
